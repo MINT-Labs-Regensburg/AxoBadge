@@ -26,4 +26,4 @@ You can find the manual and pictures of every step here: https://github.com/Bina
 - Axolotl SVG [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) - [Dani from Mint-Labs Regensburg e.V.](https://www.mint-labs-regensburg.de/)
 
 ### Buy Soldering Kits
-If you want to buy the parts and PCB for a soldering kit you can find everything here: [shop.blinkyparts.com](https://shop.blinkyparts.com/de/Regenbogen-Einhorn-Einfacher-Bausatz-fuer-einen-tollen-Anstecker/blink232242)
+If you want to buy the parts and PCB for a soldering kit you can find everything here: [Axolotl @ shop.blinkyparts.com](https://shop.blinkyparts.com/de/Axolotl-Fanclub-Badge-Ein-Aushaengeschild-fuer-absolute-Axolotl-Fans/blink235042)
